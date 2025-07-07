@@ -1,0 +1,11 @@
+Fitted Equation: y = -1787.58 * exp(-1.30 * x) + 2037.28
+SSE: 54716401.5038
+RMSE: 91.7068
+R²: 0.9592
+
+The ASTM E741 method was additionally explored for estimating air change rates as a means of cross-verification. 
+While this approach yielded values comparable to the exponential fitting method in the two-person occupancy case, 
+notable deviations were observed in the single- and triple-occupant scenarios. 
+These inconsistencies are likely due to inherent sensitivities of the ASTM method under low CO₂ differentials or non-uniform mixing conditions,
+particularly during the early part of the buildup curve. 
+Hence, the exponential fitting approach was adopted as the primary method for all reported analyses.
