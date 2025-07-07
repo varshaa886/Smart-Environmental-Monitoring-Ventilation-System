@@ -1,0 +1,10 @@
+Fitted Equation: y = -720.13 * exp(-1.12 * x) + 1148.84
+SSE: 1127043.0853
+RMSE: 12.5200
+R²: 0.9952
+
+Calculated AB: 1.2800 L/min
+Outdoor CO₂ concentration (ppm): 400.0000
+Initial smoothed CO₂: 418.1297
+Final smoothed CO₂: 1119.9943
+Number of measurements: 7190.0000
